@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  FinRecipesComplieAll.cpp
+d:\quants\finrecipes\examples_cc\finrecipescomplieall\finrecipescomplieall\term_structure_class_interpolated.cc(16): warning C4018: '<': signed/unsigned mismatch
+d:\quants\finrecipes\examples_cc\finrecipescomplieall\finrecipescomplieall\term_structure_class_interpolated.cc(55): warning C4018: '<': signed/unsigned mismatch
+  FinRecipesComplieAll.vcxproj -> D:\Quants\finrecipes\examples_cc\FinRecipesComplieAll\Debug\FinRecipesComplieAll.exe
